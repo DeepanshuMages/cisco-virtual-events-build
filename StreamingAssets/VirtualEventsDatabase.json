@@ -1,0 +1,17 @@
+{
+  "events":[
+      {
+        "name": "Event 1",
+        "videoName": "Event1/video1",
+        "pdf": [
+            {
+              "page":"Event1/page1.png"
+            },
+            {
+              "page": "Event1/page2.png"
+            }
+          ]
+        
+      }
+    ]
+}
