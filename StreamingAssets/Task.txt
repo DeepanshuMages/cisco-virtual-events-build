@@ -1,0 +1,47 @@
+#booth functionality
+fill a form:  tesxt fields from unity
+view and download brochrures ---> view & download business card
+videos
+
+
+
+#pdf & buisness card
+for showing pdf files, we can use the same method as of dbs to show content, we can take screen shots of pdfs, and add them in json data base
+for downloading pff files, we either can open up a form take their details and send them via emails, or we just can open up the file in another tab where user can save it manually
+
+#fillup the form
+open up  webpage inside unity using webview just like cisco or can use unity UI only
+
+#
+
+might be some delay in art: peter
+
+
+
+## Subscription of Cloud-Based Business
+tommrow EOD or 
+send by: 21st oct
+target: 20th oct
+start from: nov  1st
+go live: april 1st
+21 weeks
+
+
+ideate
+jot it down
+pres
+objective mapout
+
+100 users
+
+its for 1st year students from various diplomas
+
+Supplier shall provide for an additional 100 user licenses each year for the period 1 April 2023 to 31 March 2025, should the need arises.
+for year 2022-2023, 100 membership
+for year 2023-2024, will it be the new 100 which replace the old one or will it be the addiotion to the previous one
+
+HR will be the students only?
+15 preset officail games?
+do students need to select team first and then select the buisness simulation or vice versa
+
+LeaderBoard
