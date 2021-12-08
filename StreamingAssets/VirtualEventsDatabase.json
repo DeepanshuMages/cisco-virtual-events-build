@@ -5,10 +5,34 @@
         "videoName": "Event1/video1",
         "pdf": [
             {
-              "page":"Event1/page1.png"
+              "page":"Event1/page1.jpg"
             },
             {
-              "page": "Event1/page2.png"
+              "page": "Event1/page2.jpg"
+            },
+            {
+              "page": "Event1/page3.jpg"
+            },
+            {
+              "page": "Event1/page4.jpg"
+            },
+            {
+              "page": "Event1/page5.jpg"
+            },
+            {
+              "page": "Event1/page6.jpg"
+            },
+            {
+              "page": "Event1/page7.jpg"
+            },
+            {
+              "page": "Event1/page8.jpg"
+            },
+            {
+              "page": "Event1/page9.jpg"
+            },
+            {
+              "page": "Event1/page10.jpg"
             }
           ]
         
